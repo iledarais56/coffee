@@ -1,0 +1,10 @@
+{
+    "name": "kercode/coffee",
+    "authors": [
+        {
+            "name": "Olivier Bessuand",
+            "email": "bessuand.o@gmail.com"
+        }
+    ],
+    "require": {}
+}
